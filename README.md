@@ -1,4 +1,4 @@
-#About
+# About
 
 This is a growing collection of browser extensions made for chromium based browsers.<br>
 Call me homophobic and your right.<br>
