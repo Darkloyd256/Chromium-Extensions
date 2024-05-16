@@ -4,7 +4,7 @@ It does not have to be Google Chrome, it can be any chromium based browser. An e
 
 2. Download obfuscated or download un-obfuscated.
 If you wish to modify the extension you download, continue to the next step.
-If your not looking to modify, then jump to step X.
+If your not looking to modify, then jump to step 8.
 
 3. Download the folder labeled the extensions name in the extensions sub-directory.
 
@@ -16,7 +16,7 @@ For Opera GX and Google Chrome, this is <a>chrome://extensions/</a>
 6. Click on load unpacked and load the folder you just downloaded
 Repeat steps 5-6 every time you update the extension/make a change.
 
-7. Jump to step X. 
+7. Jump to step 11. 
 
 8. Download the .CRX file inside the extensions sub-directory.
 Move the file to an easily accessible spot like your desktop.
