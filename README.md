@@ -1,3 +1,9 @@
+#About
+
+This is a growing collection of browser extensions made for chromium based browsers.<br>
+Call me homophobic and your right.<br>
+Call me racist AND homophobic and you make no sense.
+
 # How to install:
 1. Install a Chromium-based web browser.
 It does not have to be Google Chrome, it can be any chromium based browser. An example of one that's not Chrome is Opera GX.
